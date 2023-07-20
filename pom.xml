@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>JOMACS Snapshot Nexus Repository </name>
-	      <url>http://http://localhost:8081/repository/rock_snapshot/</url>
+	      <url>http://localhost:8081/repository/rock_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
